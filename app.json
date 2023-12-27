@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HaniSugarArtApp",
-    "slug": "HaniSugarArtApp",
+    "name": "CakeOrderApp",
+    "slug": "CakeOrderApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

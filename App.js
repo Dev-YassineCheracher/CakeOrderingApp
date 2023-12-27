@@ -1,12 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import Login from './screens/Login';
+import SignUp from './screens/SignUp';
+import AppNavigator from './AppNavigator';
 
-export default function App() {
+
+export default function App({navigation}) {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+        <StatusBar style='dark'/>
+        <AppNavigator />
+    </>
   );
 }
 
