@@ -41,7 +41,7 @@ The Cake Ordering App is a comprehensive mobile application built using React Na
 - **`assets`**: Static assets like images and stylesheets.
 - **`components`**: Reusable React components.
 - **`screens`**: Different app screens/views.
-- **`services`**: Backend service integrations, including API interactions.
+- **`services`**: Backend service integrations.
 
 ## Contribution and Development
 
